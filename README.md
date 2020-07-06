@@ -9,6 +9,9 @@ This project is the first step in the step system.
 ![me emotion](https://user-images.githubusercontent.com/39909903/86574626-f8af6f80-bf2a-11ea-93f2-c58bd08bb871.PNG) --
 ![ntr emotion](https://user-images.githubusercontent.com/39909903/86574777-2f858580-bf2b-11ea-8aee-597f89f2b6b9.PNG)
 <br/> <br/>
+Here I trained the convolution neural network with kaggle facial emotion dataset. so that it learns patterns for each facial expression and able to detect facial emotions
+<br/>
+<br/>
 
 _Feel free to download, clone , fork the project._  
 
@@ -49,6 +52,7 @@ This notebook file is a complete wrapout  of practical exposure, understanding a
 <br/>
 <br/>
 The following is the results of the images. I also add the number of persons in the image and the relevant emojis to their emotions of the persons to create sense of feel.
+<br/><br/>
 
 
 
@@ -61,11 +65,16 @@ The following is the results of the images. I also add the number of persons in 
   <br/>
   <br/>
   Thanks, Hope you enjoy the project! :)
+  <br/>
+  <br/>
+  <br/>
   
 
-  ## contributing:
+  ## Contributing:
   all pull requests are welcome. I felt glad if you give me any suggestions.
   <br/>
   <br/>
-  ## Licence & copyright
+  ## Licence & copyright: 
+  © Prudhvi GNV, _Computer Science<br/>
+  Licensed under the [MIT License](LICENCE)_
   
