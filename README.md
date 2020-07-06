@@ -77,6 +77,6 @@ The following is the results of the images. I also add the number of persons in 
   <br/>
   ## Licence & copyright: 
   © Prudhvi GNV, _Computer Science<br/>
-  Licensed under the [MIT License](LICENCE)_
+  Licensed under the [MIT License](LICENSE)_
   [![GitHub license](https://img.shields.io/github/license/PrudhviGNV/Facial-emotion-recognition-using-CNN)](https://github.com/PrudhviGNV/Facial-emotion-recognition-using-CNN/blob/master/LICENSE)
   
