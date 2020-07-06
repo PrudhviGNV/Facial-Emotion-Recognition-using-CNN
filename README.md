@@ -3,7 +3,7 @@ This is completely a deep learning project entirely based on neural networks and
 <br/>We all know facial emotions play a vital role in our day-to-day life. so, we need a system which is capable of recognising our  facial emotions and able to act accordingly.
 <br/>
 <br/> 
-This project is the first step in the step system.
+This project is the first step in that system.
 <br/>
 <br/>
 ![me emotion](https://user-images.githubusercontent.com/39909903/86574626-f8af6f80-bf2a-11ea-93f2-c58bd08bb871.PNG) --
