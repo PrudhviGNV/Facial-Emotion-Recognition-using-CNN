@@ -71,7 +71,7 @@ The following is the results of the images. I also add the number of persons in 
   
 
   ## Contributing:
-  all pull requests are welcome. I felt glad if you give me any suggestions. 
+  all pull requests are welcome. I felt glad if you give me any suggestions. (^_^)
  [![GitHub issues](https://img.shields.io/github/issues/PrudhviGNV/Facial-emotion-recognition-using-CNN)](https://github.com/PrudhviGNV/Facial-emotion-recognition-using-CNN/issues)
   <br/>
   <br/>
