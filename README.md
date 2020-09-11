@@ -1,4 +1,6 @@
 # Facial Emotion Recognition using CNN :
+[![LICENCE.md](https://img.shields.io/github/license/PrudhviGNV/py-automl)](https://github.com/PrudhviGNV/py-automl/blob/master/LICENCE.md)[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/PrudhviGNV)[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/PrudhviGNV/open-source-badges/)
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/PrudhviGNV/badges)<br>
 This is completely a deep learning project entirely based on neural networks and I think Facial emotion recognition(FER) project is one of the classical projects in deep learning.<br/>
 <br/>We all know facial emotions play a vital role in our day-to-day life. so, we need a system which is capable of recognising our  facial emotions and able to act accordingly.
 <br/>
@@ -79,4 +81,9 @@ The following is the results of the images. I also add the number of persons in 
   © Prudhvi GNV, _Computer Science<br/>
   Licensed under the [MIT License](LICENSE)_
   [![GitHub license](https://img.shields.io/github/license/PrudhviGNV/Facial-emotion-recognition-using-CNN)](https://github.com/PrudhviGNV/Facial-emotion-recognition-using-CNN/blob/master/LICENSE)
+  
+  --------
+## Contact:
+<a href="https://www.linkedin.com/in/prudhvignv"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/linkedin.png" width="40" /> </a>  <a href="https://github.com/PrudhviGNV"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/github-logo.png" width="40" /> </a>  <a href="https://www.facebook.com/prudhvi.gnv/"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/facebook.png" width="40" /> </a>  <a href="mailto:prudhvi.gnv@gmail.com"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/google-plus.png" width="40" /> </a>  <a
+ href="https://www.instagram.com/prudhvi_gnv"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/instagram.png" width="40" /> </a><a href="https://prudhvignv.github.io"><img src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/home.png" width="40" /></a>
   
