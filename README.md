@@ -15,6 +15,10 @@ Here I trained the convolution neural network with kaggle facial emotion dataset
 <br/>
 <br/>
 
+-------
+### I wrote a medium blog on this project. you can find [here](https://medium.com/@prudhvi.gnv/ultimate-guide-for-facial-emotion-recognition-using-a-cnn-f9239fdc63ad?source=---------2------------------) for quick understanding and insights.
+
+-----
 _Feel free to download, clone , fork the project._  
 
 ## Installation of python libraries:
